@@ -18,5 +18,5 @@ I build reliable, production-grade systems across Web3, backend infrastructure, 
 ### Hire
 
 - [x] Open to freelance contracts, long-term collaborations, and technical partnerships.
-- [x] Reach me at: `[upwork]`
+- [x] Reach me at: [X](https://x.com/status402)
 - [x] Satisfaction guaranteed — or your money back.
