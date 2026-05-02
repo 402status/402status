@@ -16,9 +16,5 @@ I build reliable, production-grade systems across Web3, backend infrastructure, 
 - [x] Zero disputes. Upfront communication. If a project isn't the right fit, I'll say so immediately.
 
 ### Hire
-<a href="https://x.com/status402">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=x&logoColor=FFFFFF&label=" alt="X">
-</a>
-
 - [x] Open to freelance contracts, long-term collaborations, and technical partnerships.
 - [x] Satisfaction guaranteed — or your money back.
