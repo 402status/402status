@@ -15,4 +15,3 @@ I build reliable, production-grade systems across Web3, backend infrastructure, 
 
 ### Hire
 - [x] Open to freelance contracts, long-term collaborations, and technical partnerships.
-- [x] Satisfaction guaranteed — or your money back.
